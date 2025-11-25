@@ -56,6 +56,21 @@ A macOS utility to repackage Cisco Secure Client DMG files for unattended deploy
 
 The resulting PKG can be deployed silently via Jamf Pro or any other MDM solution.
 
+<img width="1050" height="907" alt="Capture d’écran 2025-11-25 à 17 11 09" src="https://github.com/user-attachments/assets/e422b7db-ba03-435a-a5c7-9199a33896b8" />
+
+<img width="1050" height="907" alt="Capture d’écran 2025-11-25 à 17 11 14" src="https://github.com/user-attachments/assets/b879476a-3e1d-41cb-97f0-9c866b9856c7" />
+
+<img width="1050" height="907" alt="Capture d’écran 2025-11-25 à 17 11 18" src="https://github.com/user-attachments/assets/61fdf30c-fafa-42b7-a818-52d489ffb11f" />
+
+<img width="482" height="316" alt="Capture d’écran 2025-11-25 à 17 11 22" src="https://github.com/user-attachments/assets/92fa20f8-513e-42d8-a065-72df342c3bb5" />
+
+
+
+
+
+
+
+
 ## How It Works
 
 1. Mounts the Cisco Secure Client DMG
