@@ -60,6 +60,8 @@ The resulting PKG can be deployed silently via Jamf Pro or any other MDM solutio
 
 <img width="1050" height="907" alt="Capture d’écran 2025-11-25 à 17 11 14" src="https://github.com/user-attachments/assets/b879476a-3e1d-41cb-97f0-9c866b9856c7" />
 
+<img width="500" height="432" alt="Capture d’écran 2025-11-26 à 08 41 38" src="https://github.com/user-attachments/assets/a0955c0d-8b78-4f9b-8f98-3c3cf98eed79" />
+
 <img width="1050" height="907" alt="Capture d’écran 2025-11-25 à 17 11 18" src="https://github.com/user-attachments/assets/61fdf30c-fafa-42b7-a818-52d489ffb11f" />
 
 <img width="482" height="316" alt="Capture d’écran 2025-11-25 à 17 11 22" src="https://github.com/user-attachments/assets/92fa20f8-513e-42d8-a065-72df342c3bb5" />
